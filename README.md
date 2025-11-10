@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Koushik, and I'm a Front-End Developer interested in building intuitive user interfaces!
+My name is Koushik, and I'm a Software Developer interested in building intuitive user interfaces and solutions!
 
 
 <!--
